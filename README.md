@@ -67,3 +67,13 @@ E.g. a player playing as goalkeeper with 1 goals made and 10 received will be gr
 points (50 + 1*5 - 10*2 = 35).
 
 The winner team is the one with more goals made.
+
+Example:
+
+HANDBALL
+player 1;nick1;4;Team A;G;0;20
+player 2;nick2;8;Team A;F;15;20
+player 3;nick3;15;Team A;F;10;20
+player 4;nick4;16;Team B;G;1;25
+player 5;nick5;23;Team B;F;12;25
+player 6;nick6;42;Team B;F;8;25
