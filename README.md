@@ -43,13 +43,13 @@ The winner team is the one with more scored points.
 
 Example:
 
-BASKETBALL
-player 1;nick1;4;Team A;G;10;2;7
-player 2;nick2;8;Team A;F;0;10;0
-player 3;nick3;15;Team A;C;15;10;4
-player 4;nick4;16;Team B;G;20;0;0
-player 5;nick5;23;Team B;F;4;7;7
-player 6;nick6;42;Team B;C;8;10;0
+BASKETBALL<br/>
+player 1;nick1;4;Team A;G;10;2;7<br/>
+player 2;nick2;8;Team A;F;0;10;0<br/>
+player 3;nick3;15;Team A;C;15;10;4<br/>
+player 4;nick4;16;Team B;G;20;0;0<br/>
+player 5;nick5;23;Team B;F;4;7;7<br/>
+player 6;nick6;42;Team B;C;8;10;0<br/>
 
 ### Handball:
 Each row will represent one player stats, with the format:
@@ -70,10 +70,10 @@ The winner team is the one with more goals made.
 
 Example:
 
-HANDBALL
-player 1;nick1;4;Team A;G;0;20
-player 2;nick2;8;Team A;F;15;20
-player 3;nick3;15;Team A;F;10;20
-player 4;nick4;16;Team B;G;1;25
-player 5;nick5;23;Team B;F;12;25
-player 6;nick6;42;Team B;F;8;25 
+HANDBALL<br/>
+player 1;nick1;4;Team A;G;0;20<br/>
+player 2;nick2;8;Team A;F;15;20<br/>
+player 3;nick3;15;Team A;F;10;20<br/>
+player 4;nick4;16;Team B;G;1;25<br/>
+player 5;nick5;23;Team B;F;12;25<br/>
+player 6;nick6;42;Team B;F;8;25<br/>
