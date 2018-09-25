@@ -1,6 +1,6 @@
 # Code Test: Most Valuable Player
 
-##Task
+## Task
 Tucan Tournament is a tournament where several players compete in several sports. Right now,
 the sports played are basketball and handball matches. They plan to add more sports in the
 future.
@@ -23,7 +23,7 @@ The program responsible of generating the files has a bug, that can be reflected
 format. If one file is wrong, the whole set of files is considered to be wrong and the MVP won't
 be calculated.
 
-###Basketball:
+### Basketball:
 Each row will represent one player stats, with the format:
 player name;nickname;number;team name;position;scored points;rebounds;assists
 
@@ -50,7 +50,7 @@ player 4;nick4;16;Team B;G;20;0;0
 player 5;nick5;23;Team B;F;4;7;7
 player 6;nick6;42;Team B;C;8;10;0
 
-###Handball:
+### Handball:
 Each row will represent one player stats, with the format:
 player name;nickname;number;team name;position;goals made;goals received
 
