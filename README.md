@@ -37,7 +37,7 @@ position:
 | Center (C)  | 2            | 1       | 3      |
 
 E.g. a player playing as center with 10 scored points, 5 rebounds and no assists will be granted
-25 rating points (10*2 + 5*1 + 0*3 ).
+25 rating points (10*2 + 5*1 + 0*3)
 
 The winner team is the one with more scored points.
 
@@ -64,7 +64,7 @@ position:
 | Field player (F) | 20                    | 1         | -1            |
 
 E.g. a player playing as goalkeeper with 1 goals made and 10 received will be granted 35 rating
-points (50 + 1*5 - 10*2 = 35).
+points (50 + 1*5 - 10*2 = 35)
 
 The winner team is the one with more goals made.
 
@@ -76,4 +76,4 @@ player 2;nick2;8;Team A;F;15;20
 player 3;nick3;15;Team A;F;10;20
 player 4;nick4;16;Team B;G;1;25
 player 5;nick5;23;Team B;F;12;25
-player 6;nick6;42;Team B;F;8;25
+player 6;nick6;42;Team B;F;8;25 
