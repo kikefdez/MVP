@@ -30,10 +30,11 @@ player name;nickname;number;team name;position;scored points;rebounds;assists
 This table details the rating points each player in a basketball match receives depending on her
 position:
 
-|           |Scored point|Rebound|Assist|
-|Guard (G)  |2           |3      |1     |
-|Forward (F)|2           |2      |2     |
-|Center (C) |2           |1      |3     |
+|            | Scored point| Rebound| Assist|
+|------------|-------------|--------|-------|
+| Guard (G)  | 2           | 3      | 1     |
+| Forward (F)| 2           | 2      | 2     |
+| Center (C) | 2           | 1      | 3     |
 
 E.g. a player playing as center with 10 scored points, 5 rebounds and no assists will be granted
 25 rating points (10*2 + 5*1 + 0*3 ).
@@ -57,9 +58,10 @@ player name;nickname;number;team name;position;goals made;goals received
 This table details the rating points each player in a handball match receives depending on her
 position:
 
-|                |Initial rating points|Goal made|Goal received|
-|Goalkeeper (G)  |50                   |5        |-2           |
-|Field player (F)|20                   |1        |-1           |
+|                 | Initial rating points| Goal made| Goal received|
+|-----------------|----------------------|----------|--------------|
+| Goalkeeper (G)  | 50                   | 5        | -2           |
+| Field player (F)| 20                   | 1        | -1           |
 
 E.g. a player playing as goalkeeper with 1 goals made and 10 received will be granted 35 rating
 points (50 + 1*5 - 10*2 = 35).
